@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Desafio1</string>
+    <string name="description">"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."</string>
+    <string name="edit_button">Editar Perfil</string>
+</resources>
