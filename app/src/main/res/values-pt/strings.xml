@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lista de Tarefas</string>
+    <string name="enter_task">Digite uma nova tarefa</string>
+    <string name="add_task">Adicionar Tarefa</string>
+</resources>
