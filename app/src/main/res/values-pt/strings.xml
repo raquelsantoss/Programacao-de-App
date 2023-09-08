@@ -1,5 +1,9 @@
+<!-- values/strings.xml -->
 <resources>
     <string name="app_name">Lista de Tarefas</string>
-    <string name="enter_task">Digite uma nova tarefa</string>
+    <string name="enter_task">Insira uma nova tarefa</string>
     <string name="add_task">Adicionar Tarefa</string>
+    <string name="confirm_delete">Deseja realmente excluir esta tarefa?</string>
+    <string name="yes">Sim</string>
+    <string name="cancel">Cancelar</string>
 </resources>
