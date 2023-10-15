@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ToDoTribe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="add_category">Add Categoria</string>
+    <string name="enter_category">Entre com a Categoria</string>
+    <string name="category_color">Cor da Categoria</string>
+    <string name="add_color">Add Cor</string>
+    <string name="categories">Categorias</string>
+    <string name="tasks_to_do">Tarefas Para Fazer</string>
+    <string name="completed_tasks">Tarefas completadas</string>
+    <string name="create_task">Criar Tarefa</string>
+    <string name="enter_task_information">Entre com a informação da tarefa</string>
+    <string name="due_date">Prazo</string>
+    <string name="completed">Completadas</string>
+    <string name="priority">Prioridade</string>
+    <string name="low">Baixa</string>
+    <string name="medium">Media</string>
+    <string name="high">Alta</string>
+    <string name="category">Categoria</string>
+    <string name="add_new_category">+ Add Nova Categoria</string>
+    <string name="new_task">Nova tarefa</string>
+    <string name="settings">Configurações</string>
+    <string name="notification">Notificação</string>
+    <string name="low_priority_tasks">Tarefas de baixa prioridade</string>
+    <string name="medium_priority_tasks">Tarefas de média prioridade</string>
+    <string name="high_priority_tasks">Tarefas de altas prioridade</string>
+    <string name="general">Geral</string>
+    <string name="rate_the_app">Avalie o app</string>
+</resources>
