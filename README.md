@@ -1,5 +1,5 @@
 # ToDoTribe
-<p>d|Desenvolvimento moderno de um projeto estilo <b>To Do List</b> para Android com o uso do Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel) e Material 3 Design, baseado na arquitetura MVVM.</p>
+<p>Desenvolvimento moderno de um projeto estilo <b>To Do List</b> para Android com o uso do Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel) e Material 3 Design, baseado na arquitetura MVVM.</p>
 
 ## Sobre o Projeto:
 
