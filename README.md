@@ -1,4 +1,4 @@
-# ToDoTribe
+# TarefEase
 <p>Desenvolvimento moderno de um projeto estilo <b>To Do List</b> para Android com o uso do Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel) e Material 3 Design, baseado na arquitetura MVVM.</p>
 
 ## Sobre o Projeto:
@@ -20,4 +20,5 @@
 
 ## Arquitetura
 
-![image](https://github.com/raquelsantoss/Programacao-de-App/assets/80298086/be55d1a5-c436-4cff-ab59-4bf9b950d3c1)
+![image](https://github.com/raquelsantoss/Programacao-de-App/assets/80298086/17c40a55-963e-4d7b-b13b-5ec3adb883e1)
+
