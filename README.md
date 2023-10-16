@@ -17,3 +17,7 @@
   - Padrão de Repositório
 - Componentes de Material: Componentes de design de material para criar animações de ondulação e CardView.
 - Seletor de Cores: Simples seletor de cores para Android com roda de cores e barra de luminosidade.
+
+## Arquitetura
+
+![image](https://github.com/raquelsantoss/Programacao-de-App/assets/80298086/be55d1a5-c436-4cff-ab59-4bf9b950d3c1)
