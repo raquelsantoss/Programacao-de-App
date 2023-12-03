@@ -14,7 +14,7 @@ Template base ultilizado para o design do projeto: https://www.behance.net/galle
 - Coroutines - Para programação assíncrona .
 - Flow - Um fluxo de dados assíncrono que emite valores sequencialmente e completa normalmente com uma exceção.
 - Android Architecture Components - Coleção de bibliotecas que ajudam a projetar aplicativos robustos, testáveis e sustentáveis.
-  -Paging 3.0 - A biblioteca de paginação ajuda a carregar e exibir páginas de dados de um conjunto de dados maior do armazenamento local ou pela rede.
+  - Paging 3.0 - A biblioteca de paginação ajuda a carregar e exibir páginas de dados de um conjunto de dados maior do armazenamento local ou pela rede.
   - LiveData - Objetos de dados que notificam as visualizações quando o banco de dados subjacente é alterado.
   - ViewModel - Armazena dados relacionados à interface do usuário que não são destruídos durante alterações na interface do usuário.
   - ViewBinding - Gera uma classe de vinculação para cada arquivo de layout XML presente no módulo, permitindo escrever código que interage com as visualizações de maneira mais fácil.
